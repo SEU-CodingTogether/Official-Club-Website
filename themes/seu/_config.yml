@@ -84,13 +84,9 @@ comment:
 # Available value:
 #     swiftype | google | local
 search:
-    use: swirtype
+    use: local
     swiftype_key: Just another fine responsive  
     
-local_search:
-    enable: true
-    trigger: auto
-    to_n_per_article: -1
 # Leancloud Views
 leancloud:
     enable: false

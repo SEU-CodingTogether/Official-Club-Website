@@ -72,9 +72,9 @@ fonts: FZLTCXHJW, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB"
 # Available value of "use":
 #     duoshuo | disqus | disqus_click | changyan
 comment:
-    use: disqus_click
+    use: 
     shortname: seu-coding-together
-    duoshuo_thread_key_type: path
+    #duoshuo_thread_key_type: path
     #duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
     #changyan_appid:
     #$changyan_conf:

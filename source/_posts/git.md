@@ -3,7 +3,7 @@ title: Git学习指南
 date: 2018/04/07 09:13:48  # 文章发表时间
 tags:
 - Github
-categories: Github
+categories: Git学习
 thumbnail: /img/git.png
 ---
 

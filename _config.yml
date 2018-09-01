@@ -86,7 +86,9 @@ search:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# https://github.com/SEU-CodingTogether/SEU-CodingTogether.github.io
+# https://gitee.com/angryBerry/angryBerry.git
 deploy:
   type: git
-  repo: https://gitee.com/angryBerry/angryBerry.git
+  repo: https://github.com/SEU-CodingTogether/SEU-CodingTogether.github.io
   branch: master

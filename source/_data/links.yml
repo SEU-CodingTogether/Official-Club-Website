@@ -2,49 +2,34 @@
 张仕超 :
       link: "https://blog.csdn.net/u014303046"
       avatar: "/img/zsc.jpeg"
-      descr: "东南大学研一"
+      descr: "东南大学研二-技术部"
 
-test1 :
+李康 :
       link:
-      avatar: /img/t1.jpeg
-      descr: For test
+      avatar: /img/likang.png
+      descr: 东南大学研二-主席团
 
-test2 :
+薛谌 :
       link:
-      avatar: /img/t2.jpeg
-      descr: For test
+      avatar: /img/xuechen.jpg
+      descr: "东南大学研二-技术部"
 
-test3 :
+张琳 :
       link:
-      avatar: /img/t3.png
-      descr: For test
+      avatar: /img/zhanglin.jpg
+      descr: "东南大学研二-宣传部"
 
-test4 :
+周璇 :
       link:
-      avatar: /img/t4.jpeg
-      descr: For test
+      avatar: /img/zhouxuan.jpg
+      descr: "东南大学研二-宣传部"
 
-test5 :
+黄雪颖 :
       link:
       avatar: /img/t5.jpeg
-      descr: For test
+      descr: "东南大学研二-组织部"
 
-test6 :
+金玥 :
       link:
       avatar: /img/t6.jpeg
-      descr: For test
-
-test7 :
-      link:
-      avatar: /img/t7.jpeg
-      descr: For test
-
-test8 :
-      link:
-      avatar: /img/t8.jpg
-      descr: For test
-
-test9 :
-      link:
-      avatar: /img/t9.jpeg
-      descr: For test
+      descr: "东南大学研二-校园大使"

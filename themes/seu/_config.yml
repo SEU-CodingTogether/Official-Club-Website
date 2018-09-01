@@ -35,9 +35,9 @@ Nav:
             use: false
             link:
     pages:
-        编程挑战的日常: 
+        编程挑战信息: 
             link: "/about/"
-        团队 :
+        团队画像 :
             link: "/group/"
         社团剪影 :
             link: "/gallery/"

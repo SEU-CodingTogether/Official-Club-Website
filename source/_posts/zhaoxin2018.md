@@ -8,10 +8,13 @@ thumbnail: /img/zhaoxin3.gif
 
 # 社团招新啦！！！
 
-预热中，敬请期待……
+<iframe src="https://c.xiumi.us/board/v5/3o6bh/104730357"  width=100% height=1600px> </iframe>
+
+
 
 <center>
 
 ![](/img/zhaoxin2.gif)
 
 </center>
+
